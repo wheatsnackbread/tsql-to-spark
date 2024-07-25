@@ -4,8 +4,8 @@
 
 # SQL to Spark SQL/PySpark Translator for Azure Databricks
 
-The Translator.ipynb notebook assists in translating T-SQL stored procedures to Spark SQL for use in Azure Databricks. It validates input, identifies dependencies, and generates Spark SQL/PySpark code with the assistance of gpt-4o. <br>
-Additional documentation can be found under documentation/translator_short_deck.pdf.
+The Translator.ipynb notebook assists in translating T-SQL stored procedures to Spark SQL for use in Azure Databricks. It validates input, identifies dependencies, and generates Spark SQL/PySpark code with the assistance of gpt-4o. <br><br>
+Additional documentation can be found under [documentation/translator_short_deck.pdf](documentation/translator_short_deck.pdf).
 
 ## How to Use / Configuration
 
