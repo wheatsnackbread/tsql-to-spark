@@ -1,0 +1,10 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Azure OpenAI keys
+.env
+
+# Potentially sensitive data
+bulk.sql
+
+# Ignore all subdirectories that begin with output_
+output_*/
